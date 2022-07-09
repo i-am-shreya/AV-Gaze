@@ -9,7 +9,7 @@ In challenging real-life conditions such as extreme head-pose, occlusions, and l
 Please download the data using the link: [MDDL](https://github.com/sunlightsgy/MDDL) 
 
 ## Pipeline 
-![pipeline](/figs/framework_depression.png) 
+![pipeline](/figs/AVGaze_pipeline.png) 
 
 If you find the paper/code useful for your research, please consider citing our work:
 ```
